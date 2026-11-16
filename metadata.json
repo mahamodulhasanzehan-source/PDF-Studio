@@ -1,0 +1,6 @@
+{
+  "name": "PDF Editor",
+  "description": "An offline-capable web-based PDF editor with annotation, text overlay editing, freehand drawing, redaction, image insertion, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
